@@ -1,3 +1,4 @@
+// enable module from package.json before run this test case
 import puppeteer from "puppeteer";
 import { TESTING_EMAIL, TESTING_PASSWORD } from "../config/index.js";
 
